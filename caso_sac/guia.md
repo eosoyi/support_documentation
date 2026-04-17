@@ -58,7 +58,7 @@ Lo único que hay que validar es que DFEUUID este activo y DFADUUId_Anular este 
 
 ---
 
-**Factura Activa**
+**Factura Inactiva**
 ![Factura Anulada](img/img4.png)
 
 ---
